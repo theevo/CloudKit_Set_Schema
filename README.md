@@ -10,16 +10,16 @@ Got Bad Container error?
 
 ### 3. Click Schema. (Mine was under Development)
 
-![/images/Click Schema - CloudKit.png](Click Schema)
+![Click Schema](/images/Click Schema - CloudKit.png)
 
 ### 4. Click Edit Indexes.
 
-![/images/Edit Indexes - CloudKit.png](Click Edit Images)
+![Click Edit Images](/images/Edit Indexes - CloudKit.png)
 
 
 ### 5. Click Add Index. *recordName and QUERYABLE will appear*.
 
-![/images/add recordName to Indexes - CloudKit.png](Add recordName QUERYABLE and Click Save)
+![Add recordName QUERYABLE and Click Save][/images/add recordName to Indexes - CloudKit.png]
 
 
 ### 6. Click Save Changes.
