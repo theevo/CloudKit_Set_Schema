@@ -15,7 +15,7 @@ You'll need to run your app in Simulator at least once in order for CloudKit to 
 
 ![Click Schema](images/Click_Schema_-_CloudKit.png)
 
-### 4. Click Edit Indexes.
+### 4. Select *your Model* under **Custom Types**.Click Edit Indexes.
 
 ![Click Edit Images](images/Edit_Indexes_-_CloudKit.png)
 
