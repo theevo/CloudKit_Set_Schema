@@ -1,6 +1,9 @@
 # Set Schema in CloudKit
 
-Got Bad Container error?
+Got a Bad Container error?
+
+You'll need to run your app in Simulator at least once in order for CloudKit to become aware of your Model's properties. Don't jump the gun (like I did) and try to set this up right after you create the CloudKit container! Get to a point where your app is functional, then run in Simulator, then follow the steps below.
+
 
 ## Steps
 
@@ -17,9 +20,10 @@ Got Bad Container error?
 ![Click Edit Images](images/Edit_Indexes_-_CloudKit.png)
 
 
-### 5. Click Add Index. *recordName and QUERYABLE will appear*.
+### 5. Click Add Index. 
+*recordName and QUERYABLE will appear*.
 
-![Add recordName QUERYABLE and Click Save][/images/add_recordName_to_Indexes_-_CloudKit.png]
+![Add recordName QUERYABLE and Click Save](/images/add_recordName_to_Indexes_-_CloudKit.png)
 
 
 ### 6. Click Save Changes.
